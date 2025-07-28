@@ -1,4 +1,4 @@
-# Image Classification (Kaggle)
+# Image Classification ([Kaggle](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition))
 
 **Fine-tuning a convolutional neural network (CNN) to classify dogs and cats with high accuracy.**
 
@@ -9,7 +9,7 @@ This project applies deep learning to a classic Kaggle image classification chal
 - Python: Pandas, TensorFlow (Keras), Scikit-learn, Matplotlib
 - Deep Learning: CNN (Xception, ResNet50), Transfer Learning, Image Augmentation
 
-## 💡 Key Themes
+## 💡 Key Highlights
 - Transfer learning for binary image classification
 - Image preprocessing and augmentation
 - Model tuning and evaluation with log loss
